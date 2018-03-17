@@ -1,11 +1,11 @@
 turbosDefault
 # FIXED Default_t   WonderCMS-v2.**-theme
-![WonderCMS ver. 2.** Default_t theme](http://torba.tk/default_t_theme.jpg)
+![WonderCMS ver. 2.** Default_t theme](http://t0rba.tk/default_t_theme.jpg)
 
 
 WonderCms v.2.** Default_t theme
 
-http://torba.tk/default_t/ - DEMO
+http://t0rba.tk/default_t/ - DEMO
 
 is based on a default template, added some changes, logo, background, button up, add js animation.
 social icons you can add by inserting links into any page on your site, just add:
@@ -24,4 +24,4 @@ Where instead of sharp icon do not forget to insert links to your pages in socia
 
 I will be glad if you come to my site and download also other free scripts, plans, templates, and additions to this wonderful engine  
 
-© Turboblack 2018 www.torba.tk
+© Turboblack 2018 www.t0rba.tk
